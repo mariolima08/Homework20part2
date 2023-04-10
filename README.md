@@ -9,3 +9,7 @@ https://mariolimaacebey.atlassian.net/browse/PRAC-5
 https://mariolimaacebey.atlassian.net/browse/PL1-1
 https://mariolimaacebey.atlassian.net/browse/PL1-2
 https://mariolimaacebey.atlassian.net/browse/PL1-3
+
+[Checklist](./MyWork/Checklist.docx)
+[Test Cases](./MyWork/Test Cases.docx)
+[Bugs](./MyWork/Bugs.docx)
